@@ -1,0 +1,22 @@
+body{
+  background-color: lightpink;
+}
+.container{
+      display: flex;
+      justify-content:center;
+     
+
+    }
+    .image{
+      border-top: 5px solid #555; ;
+      border-bottom: 5px solid #555;
+    }
+    .images{
+      border:5px solid #555;
+    }
+    h1{
+      text-align: center;
+      color:red;
+      font-size: 40px;
+      font-family:"lucida console","courier new", "monospace";
+    }
